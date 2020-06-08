@@ -1,6 +1,7 @@
 
 == Python
 
+
 1) numpy(1.12.1)                    - for numeric calculations
 2) scipy(0.19.0)                    - for statistical functions
 3) pandas(0.20.1)                   - for data frame functions
